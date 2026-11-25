@@ -29,7 +29,7 @@
                 <a href="#">About</a>
             </div>
             <p class="uts-footer-copy">
-                © 2025 Dibuat Sejujurjurnya Oleh Team (Masukkan Nama ketua) dan (Masukkan Nama Anggota) Tanpa Mencotek
+                © 2025 Dibuat Sejujurjurnya Oleh Team (Komang) dan (Aryo) Tanpa Mencotek
                 dari Tim Lain
             </p>
         </footer>
